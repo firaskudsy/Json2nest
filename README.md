@@ -1,4 +1,4 @@
-this toll will help to generate the required schema, interface and dto files from a single json response.
+this tool will help to generate the required schema, interface and dto files from a single json response.
 
 ## Available Scripts
 
