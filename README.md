@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this toll will help to generate the required schema, interface and dto files from a single json response.
 
 ## Available Scripts
 
